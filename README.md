@@ -54,7 +54,10 @@ Using historical financial data, it applies **time-series regression models** to
 ---
 
 ## 🧩 Power BI Dashboard Preview  
-*(Add image once available — e.g. `/assets/dashboard_preview.png`)*  
+<img width="1521" height="612" alt="image" src="https://github.com/user-attachments/assets/0ff8b80c-3ec6-492d-b6a7-f0ad7a8028ec" />
+<img width="1447" height="874" alt="image" src="https://github.com/user-attachments/assets/33cb379d-9e56-4c4b-84ba-0b721d740dd9" />
+<img width="1488" height="747" alt="image" src="https://github.com/user-attachments/assets/c4d23872-bfc6-45e2-9bcb-f492ac305093" />
+
 > The Power BI dashboard provides interactive controls to filter forecasts by department, cost center, or time period.
 
 ---
